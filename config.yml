@@ -1,0 +1,7 @@
+defaults:
+  log_channel_id: null
+  staff_role_id: null
+  welcome_channel_id: null
+  autorole_id: null
+
+guilds: {}
